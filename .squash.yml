@@ -1,5 +1,4 @@
 deployments:
-  Odoo:
-    filename: ./docker-compose.yml
+  default:
     vm_size: 2GB
     backend_wait: 300
