@@ -2,3 +2,4 @@ deployments:
   default:
     vm_size: 2GB
     backend_wait: 300
+    domain: deploylink.com
